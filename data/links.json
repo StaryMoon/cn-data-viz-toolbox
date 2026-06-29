@@ -49,12 +49,12 @@
     ]
   ],
   "quick_start": [
-    "小数据先 Pandas，大数据/本地分析试 DuckDB/Polars。",
-    "展示给别人看时用 Streamlit 或 Superset。",
-    "论文图表先保证可复现。"
+    "小数据先用 Pandas，大数据或本地分析优先试 DuckDB/Polars。",
+    "对外交付可使用 Streamlit 或 Superset。",
+    "论文图表优先保证可复现。"
   ],
   "pitfalls": [
-    "不要把图做得比数据更复杂。",
-    "dashboard 上线前要处理权限和数据脱敏。"
+    "图表复杂度不应超过数据表达需求。",
+    "dashboard 上线前需处理权限控制和数据脱敏。"
   ]
 }
