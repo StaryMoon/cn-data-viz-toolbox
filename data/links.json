@@ -46,6 +46,26 @@
       "Apache Superset",
       "https://superset.apache.org/",
       "开源 BI 平台。"
+    ],
+    [
+      "Matplotlib",
+      "https://matplotlib.org/",
+      "Python 科研绘图基础库。"
+    ],
+    [
+      "Seaborn",
+      "https://seaborn.pydata.org/",
+      "统计图表和论文草图常用库。"
+    ],
+    [
+      "Observable",
+      "https://observablehq.com/",
+      "交互式数据 notebook 和可视化社区。"
+    ],
+    [
+      "Metabase",
+      "https://www.metabase.com/",
+      "开源 BI 和内部数据看板。"
     ]
   ],
   "quick_start": [
